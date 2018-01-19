@@ -1,0 +1,2 @@
+# Kata
+Programming challenges
