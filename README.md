@@ -1,2 +1,2 @@
 # Kata
-Programming challenges
+Programming challenges from Code wars
